@@ -1,0 +1,15 @@
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/triangle-type-identifier/bin/Debug/net7.0/triangle-type-identifier
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/triangle-type-identifier/bin/Debug/net7.0/triangle-type-identifier.deps.json
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/triangle-type-identifier/bin/Debug/net7.0/triangle-type-identifier.runtimeconfig.json
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/triangle-type-identifier/bin/Debug/net7.0/triangle-type-identifier.dll
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/triangle-type-identifier/bin/Debug/net7.0/triangle-type-identifier.pdb
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/triangle-type-identifier/obj/Debug/net7.0/triangle-type-identifier.csproj.AssemblyReference.cache
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/triangle-type-identifier/obj/Debug/net7.0/triangle-type-identifier.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/triangle-type-identifier/obj/Debug/net7.0/triangle-type-identifier.AssemblyInfoInputs.cache
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/triangle-type-identifier/obj/Debug/net7.0/triangle-type-identifier.AssemblyInfo.cs
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/triangle-type-identifier/obj/Debug/net7.0/triangle-type-identifier.csproj.CoreCompileInputs.cache
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/triangle-type-identifier/obj/Debug/net7.0/triangle-type-identifier.dll
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/triangle-type-identifier/obj/Debug/net7.0/refint/triangle-type-identifier.dll
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/triangle-type-identifier/obj/Debug/net7.0/triangle-type-identifier.pdb
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/triangle-type-identifier/obj/Debug/net7.0/triangle-type-identifier.genruntimeconfig.cache
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/triangle-type-identifier/obj/Debug/net7.0/ref/triangle-type-identifier.dll
