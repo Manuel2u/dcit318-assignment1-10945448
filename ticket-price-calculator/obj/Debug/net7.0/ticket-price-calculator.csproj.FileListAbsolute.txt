@@ -1,0 +1,15 @@
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/ticket-price-calculator/bin/Debug/net7.0/ticket-price-calculator
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/ticket-price-calculator/bin/Debug/net7.0/ticket-price-calculator.deps.json
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/ticket-price-calculator/bin/Debug/net7.0/ticket-price-calculator.runtimeconfig.json
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/ticket-price-calculator/bin/Debug/net7.0/ticket-price-calculator.dll
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/ticket-price-calculator/bin/Debug/net7.0/ticket-price-calculator.pdb
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/ticket-price-calculator/obj/Debug/net7.0/ticket-price-calculator.csproj.AssemblyReference.cache
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/ticket-price-calculator/obj/Debug/net7.0/ticket-price-calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/ticket-price-calculator/obj/Debug/net7.0/ticket-price-calculator.AssemblyInfoInputs.cache
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/ticket-price-calculator/obj/Debug/net7.0/ticket-price-calculator.AssemblyInfo.cs
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/ticket-price-calculator/obj/Debug/net7.0/ticket-price-calculator.csproj.CoreCompileInputs.cache
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/ticket-price-calculator/obj/Debug/net7.0/ticket-price-calculator.dll
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/ticket-price-calculator/obj/Debug/net7.0/refint/ticket-price-calculator.dll
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/ticket-price-calculator/obj/Debug/net7.0/ticket-price-calculator.pdb
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/ticket-price-calculator/obj/Debug/net7.0/ticket-price-calculator.genruntimeconfig.cache
+/Volumes/Bat_Cave/Coding/dcit318-assignment1-10945448/ticket-price-calculator/obj/Debug/net7.0/ref/ticket-price-calculator.dll
